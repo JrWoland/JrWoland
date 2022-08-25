@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Marcin</h1>
-<h3 align="center">A passionate self-taught frontend developer from Poland.</h3>
+<h3 align="center">A passionate self-taught frontend developer.</h3>
 
 
 <h3 align="left">Main Languages:</h3>
